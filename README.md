@@ -6,7 +6,7 @@ This repository contains five Solidity contracts that have been ported to Polkad
 2. Original Sepolia source links  
 3. Passet Hub deployed addresses  
 4. Instructions to reproduce (deploy & test)  
-5. Analysis summary
+5. Analysis summary [Analysis Details](analysis.md)
 
 ## 1. Contracts Overview
 
